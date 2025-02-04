@@ -2,7 +2,10 @@
 - 👀 I’m interested in blocks coding in makecode
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on makecode arcade, minecraft, Ev3 and microbit
-- 📫 How to reach me {{REDACTED}}
+- 📫 How to reach me:
+- Discord @sonicblaston
+- Makecode Forum @Sonicblaston
+
 
 <!---
 Sonicblaston62/Sonicblaston62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
