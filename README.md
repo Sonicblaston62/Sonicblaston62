@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on makecode arcade, minecraft, Ev3 and microbit
 - 📫 How to reach me:
-- Discord @sonicblaston
 - Makecode Forum @Sonicblaston
 
 
