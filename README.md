@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sonicblaston62
-- 👀 I’m interested in blocks coding in makecode
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on makecode arcade, minecraft, Ev3 and microbit
-- 📫 How to reach me:
-- Makecode Forum @Sonicblaston
+- 👀 I’m interested in JS, Python, HTML and CSS
+- 🌱 I’m currently learning Docker
+- 💞️ I’m open to collaborate on different apps, webprojects or scripts
+- 📫 How to reach me: Sonicblaston on Discord. 
+- 
 
 
 <!---
