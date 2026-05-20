@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Docker
 - 💞️ I’m open to collaborate on different apps, webprojects or scripts
 - 📫 How to reach me: Sonicblaston on Discord. 
-- 
 
 
 <!---
